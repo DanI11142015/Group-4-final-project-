@@ -1,20 +1,28 @@
-# Group-4-final-project-
+# Group-4-final-project
 
-Project 4- Proposal
+**Project 4- Proposal**
 
 
-Health care company wants to implement a nonperson interfacing platform for diagnosing patients. 
+We wanted to train a ML model to predict patients disease when symptoms were entered. 
 
-There is not enough staffing to outweigh how many people are in need of proper diagnosis 
+We used 3 models best for classifaction method SVC, NB, and Random classifer. 
 
-We are going to employ a supervised machine learning method to diagnose patients and give them information to the best providers/hositial in their area. 
+We gathered our data from a kaggle dataset. 
+
+Our model was trained and efficently to 100% using 3 models succesfully against a training and testing dataset and successfully predicting disease.  
+
+
+ 
 
 
 
 
 Resources:
 
-IDPH Hospital Directory - Hospital Directory - data.illinois.gov
+[IDPH Hospital Directory - Hospital Directory - data.illinois.gov]
+https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/
+https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning/code?resource=download
+(https://builtin.com/data-science/evaluating-classification-models)
 https://data.illinois.gov/dataset/410idph_hospital_directory/resource/6e1453c1-5f0f-4002-9074-3daf9066dbb9
 https://www.kaggle.com/datasets/tatianass/disease-indicatorscsv
 This dataset contains annual hospital inpatient summary data based upon the Patient’s County of Residence.
